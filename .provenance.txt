@@ -33,3 +33,20 @@ service_contract_name: HelloCourseContract
 project_name: MyAwesomeGoService
 org_name: russmiles
 
+####
+
+# editor info
+name: atomist-project-templates.gokit-rest-service.AddGokitMicroserviceDockerfile
+group: atomist-project-templates
+artifact: gokit-rest-service
+version: 0.1.2
+
+# backing git repo
+repo: atomist-project-templates/gokit-rest-service.git
+branch: master
+sha: dbc1d1d
+
+# parameter values
+maintainer_name: Russ Miles
+maintainer_email: russ@atomist.com
+
